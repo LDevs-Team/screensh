@@ -1,1 +1,3 @@
-copy screensh.py "%appdata%\Microsoft\Windows\Start Menu\Programs\Startup\screensh.py"
+mkdir %appdata%\screensh
+copy screensh.py "%appdata%\screensh
+copy executor.bat "%appdata%\Microsoft\Windows\Start Menu\Programs\Startup\screensh.bat"

@@ -1,0 +1,1 @@
+copy screensh.py "%appdata%\Microsoft\Windows\Start Menu\Programs\Startup\screensh.py"

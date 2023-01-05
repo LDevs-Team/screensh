@@ -1,0 +1,1 @@
+python %appdata%\screensh\screensh.py

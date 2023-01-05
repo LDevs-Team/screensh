@@ -1,1 +1,2 @@
-python %appdata%\screensh\screensh.py
+cd %appdata%\screensh\
+python screensh.py
